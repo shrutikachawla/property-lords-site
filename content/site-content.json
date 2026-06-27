@@ -1,0 +1,62 @@
+{
+  "siteConfig": {
+    "agentName": "Jordan Cole",
+    "brokerage": "Cole Realty Group",
+    "tagline": "Real estate, handled clearly.",
+    "phone": "+1 (403) 555-0142",
+    "email": "jordan@colerealtygroup.com",
+    "areasServed": [
+      "Calgary",
+      "Airdrie",
+      "Cochrane",
+      "Okotoks"
+    ],
+    "social": {
+      "instagram": "https://instagram.com/colerealtygroup",
+      "linkedin": "https://linkedin.com/in/jordancole",
+      "facebook": "https://facebook.com/colerealtygroup"
+    },
+    "listingsEnabled": false,
+    "leadEndpoint": "/api/lead"
+  },
+  "about": {
+    "headline": "I treat your move like it's my own.",
+    "bioParagraphs": [
+      "I'm {agentName}, an agent with {brokerage} based in {primaryArea}. After years of watching buyers get talked into homes they couldn't comfortably afford, I built my whole practice around the opposite: clear numbers, honest timelines, and zero pressure.",
+      "Whether you're buying your first place or selling a home you've outgrown, I'll walk you through every step — financing, inspections, negotiation — in plain language."
+    ],
+    "photo": null,
+    "stats": [
+      {
+        "label": "Years active",
+        "value": "9"
+      },
+      {
+        "label": "Homes closed",
+        "value": "140+"
+      },
+      {
+        "label": "Avg. response",
+        "value": "<2hrs"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "Made our first home purchase feel manageable instead of terrifying. Explained every fee before it surprised us.",
+      "name": "Priya & Dev S.",
+      "role": "Bought in Airdrie"
+    },
+    {
+      "quote": "Sold our place in 11 days, $14k over ask. Communicated constantly, never once felt rushed into a decision.",
+      "name": "Marcus T.",
+      "role": "Sold in Calgary"
+    },
+    {
+      "quote": "I'd recommend them to anyone nervous about the process. Patient, sharp on the numbers, easy to reach.",
+      "name": "Aisha R.",
+      "role": "Bought in Cochrane"
+    }
+  ],
+  "listings": []
+}
