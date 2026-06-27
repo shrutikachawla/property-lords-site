@@ -1,20 +1,22 @@
 {
   "siteConfig": {
-    "agentName": "Jordan Cole",
-    "brokerage": "Cole Realty Group",
+    "agentName": "Garv Lakhina",
+    "brokerage": "REMAX Excellence",
     "tagline": "Real estate, handled clearly.",
-    "phone": "+1 (403) 555-0142",
-    "email": "jordan@colerealtygroup.com",
+    "phone": "+1 (403) 458-3212",
+    "email": "garv.lakhina@remax.net",
     "areasServed": [
-      "Calgary",
-      "Airdrie",
-      "Cochrane",
-      "Okotoks"
+      "Edmonton",
+      "St. Albert",
+      "Sherwood Park",
+      "Fort Saskatchewan",
+      "Beaumont",
+      "Leduc"
     ],
     "social": {
-      "instagram": "https://instagram.com/colerealtygroup",
-      "linkedin": "https://linkedin.com/in/jordancole",
-      "facebook": "https://facebook.com/colerealtygroup"
+      "instagram": "https://instagram.com/garvlakhina",
+      "linkedin": "https://linkedin.com/in/garvlakhina",
+      "facebook": "https://facebook.com/garvlakhina"
     },
     "listingsEnabled": false,
     "leadEndpoint": "/api/lead"
@@ -29,11 +31,7 @@
     "stats": [
       {
         "label": "Years active",
-        "value": "9"
-      },
-      {
-        "label": "Homes closed",
-        "value": "140+"
+        "value": "1"
       },
       {
         "label": "Avg. response",
@@ -43,19 +41,14 @@
   },
   "testimonials": [
     {
-      "quote": "Made our first home purchase feel manageable instead of terrifying. Explained every fee before it surprised us.",
-      "name": "Priya & Dev S.",
-      "role": "Bought in Airdrie"
-    },
-    {
       "quote": "Sold our place in 11 days, $14k over ask. Communicated constantly, never once felt rushed into a decision.",
-      "name": "Marcus T.",
+      "name": "Palak V.",
       "role": "Sold in Calgary"
     },
     {
       "quote": "I'd recommend them to anyone nervous about the process. Patient, sharp on the numbers, easy to reach.",
-      "name": "Aisha R.",
-      "role": "Bought in Cochrane"
+      "name": "Shrutika C.",
+      "role": "Bought in Edmonton"
     }
   ],
   "listings": []
